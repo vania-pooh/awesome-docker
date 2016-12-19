@@ -1,0 +1,8 @@
+title: Awesome-docker
+description: A curated list of Docker resources and projects
+google_analytics: UA-65705703-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
